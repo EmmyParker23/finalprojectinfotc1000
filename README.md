@@ -11,7 +11,7 @@ __[pica](https://nodeca.github.io/pica/demo/)__ - the best thing to use in HTML!
 <body>
 <div id="myDiv">
 <p>
-   This is a special announcement: Information Technology is awsome!!!!.
+   This is a special announcement: Information Technology is awesome!!!!.
 </p>
 
 </div>
